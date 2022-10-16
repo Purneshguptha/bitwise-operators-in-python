@@ -1,0 +1,104 @@
+01. Which of the following statements assigns the value 25 to the variable x in Python:
+   a) x ← 25
+   b)x = 25
+   c)x := 25
+   d)int x = 25
+   e)x << 25
+ANS: b
+
+02. In Python, a variable may be assigned a value of one type, and then later assigned a value of a different type:
+   a)False
+   b)True
+ANS: b
+
+03. Which one of the following is the correct way of declaring and initializing a variable, x with the value 7?
+   a)int x x=7
+   b)int x=7
+   c)x=7
+   d)declare x=7
+ANS: c
+
+04. What will be the output of statement 2**2**2**2?
+   a)16
+   b)256
+   c)32768
+   d)65536
+ANS: d
+
+05. Which of the following statement is False?
+   a)Variable names can be arbitrarily long.
+   b)They can contain both letters and numbers.
+   c)Variable name can begin with underscore.
+   d)Variable name can begin with number.
+ANS: d
+
+06. What is the output of the following code: print 9//2
+   a)4
+   b)4.5
+   c)4.0
+   d)Error
+ANS: a
+
+07. Which of the following is not a valid variable name in Python?
+   a)_var
+   b)var_name
+   c)var11
+   d)5var
+ANS: d
+
+08. What is the maximum length of an identifier in python?
+   a)32
+   b)31
+   c)63
+   d)None of the above
+ANS: d
+
+09. Which of the following declarations is incorrect?
+   a)None Of the below
+   b)_x = 2
+   c)__x = 3
+   d)__xyz__ = 5
+ANS: a
+
+10. What is the result of round(0.5) – round(-0.5)?
+   a)1.0
+   b)2.0
+   c)0
+   d)None Of the above
+ANS: b
+
+11. In Python, a variable must be declared before it is assigned a value:
+   a)True
+   b)False
+ANS: b
+
+12. Why does the name of local variables start with an underscore discouraged?
+   a)To identify the variable
+   b)It confuses the interpreter
+   c)It indicates a private variable of a class
+   d)None of these
+ANS: c
+
+13. Which of the following will run without errors?
+   a)round(75.8)
+   b)round()
+   c)round(5352.898,9,5)
+   d)round(6463.123,2,6)
+ANS: a
+
+14. Which of the following is a valid variable?
+   a)var@
+   b)32var
+   c)in
+   d)abc_x
+ANS: d
+
+15. Is Python case sensitive when dealing with identifiers?
+   a)Yes
+   b)No
+   c)Machine dependent
+ANS: a
+
+
+
+
