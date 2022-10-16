@@ -1,0 +1,38 @@
+# Bitwise AND operator
+a = 60 = 111100 (Binary)
+b = 13 = 1101 (Binary)
+
+a & b = 111100
+         &
+        001101
+      = 001100 (Binary)
+      =12 (Decimal)
+      
+   
+#Bitwise or operator
+a = 60 = 111100 (Binary)
+b = 13 = 1101 (Binary)
+
+a | b = 111100
+         |
+        001101
+      = 111101
+      = 61 (Decimal)
+      
+      
+#Bitwise xor operator
+a = 60 = 111100 (Binary)
+b = 13 = 1101 (Binary)
+
+a ^ b = 111100
+         ^
+        001101
+      = 110001
+      = 49 (Decimal)
+      
+#Bitwise not operator
+a = 60 = 111100 (Binary)
+b = 13 = 1101 (Binary)
+
+~a = -61
+~b = -14
